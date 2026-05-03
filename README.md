@@ -1,51 +1,22 @@
-# ahar0603_9103_tut1
-My first repository for IDEA9103
+# Quiz 8
 
-This is my first local change to the repo!
+## Part 1: Imaging Technique Inspiration
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+The imaging technique that inspires me is pixel artwork, especially detailed isometric city scenes. I want to incorporate its bright colour palette, clean geometric structure, and dense layering of small characters, buildings, and objects. This style is useful for the assignment because it turns a simple scene into something playful and visually rich, encouraging viewers to explore many details at once. It also suits creative coding well, since repeated shapes, grid systems, and modular elements can be generated computationally.
 
-**Bold Text** or __Bold Text__
-*Italic Text* or _Italic Text_
+### Inspiration Images
 
-- Item 1
-- Item 2
-    - Subitem 2.1
-    - Subitem 2.2
+![Pixel artwork inspiration 1](images/behance_img_2.png)
 
-* Item 1
-* Item 2
-    * Subitem 2.1
-    * Subitem 2.2
+![Pixel artwork inspiration 2](images/behance_img_8.jpg)
 
-1. First Item
-2. Second Item
-3. Third Item
+## Part 2: Coding Technique Exploration
 
-Text inbetween
+The coding technique I would use is an isometric tilemap with layered depth sorting. A tilemap builds the scene from repeated modules such as roads, roofs, walls, and props, which matches the structured look of pixel artwork. Depth sorting helps characters and objects overlap correctly, creating a stronger illusion of space in a busy city scene. This would make the composition easier to organise, expand, and keep visually consistent while still feeling detailed and lively.
 
-1. First Item
-1. Second Item
-1. Second Second Item
-1. Third Item
+### Coding Technique Example
 
-[Google Homepage](https://www.google.com/)
+![Example of an isometric tilemap in action](https://i.imgur.com/ctE64dV.png)
 
-![An image of a cat](https://placecats.com/300/200)
-
-![An image of a Mona Lisa](images/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
-
-Make sure to run `setup()` first.
-
-```
-function helloWorld() {
-    console.log("Hello World");
-}
-```
-
-> This is a quote from a book.
+- Example implementation guide: [Unity Manual: Creating an Isometric Tilemap](https://docs.unity3d.com/es/current/Manual/Tilemap-Isometric-CreateIso.html)
+- Example code/project: [UnityTechnologies - 2D Isometric Tilemaps Example Project](https://github.com/UnityTechnologies/2D_IsoTilemaps)
