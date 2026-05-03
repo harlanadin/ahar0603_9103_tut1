@@ -2,7 +2,7 @@
 
 ## Part 1: Imaging Technique Inspiration
 
-The imaging technique that inspires me is pixel artwork, especially detailed isometric city scenes. I want to incorporate its bright colour palette, clean geometric structure, and dense layering of small characters, buildings, and objects. This style is useful for the assignment because it turns a simple scene into something playful and visually rich, encouraging viewers to explore many details at once. It also suits creative coding well, since repeated shapes, grid systems, and modular elements can be generated computationally.
+The imaging technique that inspires me is pixel artwork, especially detailed isometric city scenes. I want to incorporate its bright colour palette, clean geometric structure, and layered arrangement of small characters, buildings, and objects. This style is useful for the assignment because it transforms a simple scene into something playful, visually rich, and inviting to explore. It particularly interests me because repeated shapes, grid systems, and modular elements can create depth and complexity without losing simplicity or a clear visual message.
 
 ### Inspiration Images
 
@@ -12,7 +12,7 @@ The imaging technique that inspires me is pixel artwork, especially detailed iso
 
 ## Part 2: Coding Technique Exploration
 
-The coding technique I would use is isometric grid drawing with repeated modular shapes. This is helpful because I can build the artwork from simple blocks, such as tiles, cubes, roads, or small building parts, instead of drawing every detail separately. It suits pixel art because the scene can stay neat, geometric, and consistent while still looking busy and detailed. I think this is a good beginner-friendly technique because it can be made step by step in p5.js using basic shapes and repetition.
+The coding technique I would use is isometric grid drawing with repeated modular shapes. This is helpful because I can build the artwork from simple blocks, such as tiles, cubes, roads, or small building parts, instead of drawing every detail separately. It suits pixel art because the scene can stay neat, geometric, and consistent while still looking busy and detailed. It also supports pixel artwork technically by keeping spacing, alignment, and perspective consistent across many repeated elements, which helps a dense scene feel unified.
 
 ### Coding Technique Example
 
