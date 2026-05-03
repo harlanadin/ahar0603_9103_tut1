@@ -12,11 +12,11 @@ The imaging technique that inspires me is pixel artwork, especially detailed iso
 
 ## Part 2: Coding Technique Exploration
 
-The coding technique I would use is an isometric tilemap with layered depth sorting. A tilemap builds the scene from repeated modules such as roads, roofs, walls, and props, which matches the structured look of pixel artwork. Depth sorting helps characters and objects overlap correctly, creating a stronger illusion of space in a busy city scene. This would make the composition easier to organise, expand, and keep visually consistent while still feeling detailed and lively.
+The coding technique I would use is isometric grid drawing with repeated modular shapes. This is helpful because I can build the artwork from simple blocks, such as tiles, cubes, roads, or small building parts, instead of drawing every detail separately. It suits pixel art because the scene can stay neat, geometric, and consistent while still looking busy and detailed. I think this is a good beginner-friendly technique because it can be made step by step in p5.js using basic shapes and repetition.
 
 ### Coding Technique Example
 
-![Example of an isometric tilemap in action](https://i.imgur.com/ctE64dV.png)
+![Example of isometric grid drawing in action](https://happycoding.io/tutorials/p5js/creating-classes/images/isometric-cubes-2.png)
 
-- Example implementation guide: [Unity Manual: Creating an Isometric Tilemap](https://docs.unity3d.com/es/current/Manual/Tilemap-Isometric-CreateIso.html)
-- Example code/project: [UnityTechnologies - 2D Isometric Tilemaps Example Project](https://github.com/UnityTechnologies/2D_IsoTilemaps)
+- Example implementation: [Happy Coding - Isometric Cubes](https://happycoding.io/tutorials/p5js/creating-classes/isometric-cubes)
+- Example code: [p5.js Editor sketch by Kevin Workman](https://editor.p5js.org/KevinWorkman/sketches/sgLdEoU51)
